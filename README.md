@@ -3,8 +3,7 @@
 Rust GraphQL backend using [async-graphql](https://github.com/async-graphql/async-graphql).
 
 GraphQL schema
-'''
-rust
+'''rust
 enum ChocolateType {
   Bitter, White, Milk
 }
